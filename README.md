@@ -5,6 +5,7 @@ Buttons scaffold written in a BEM-friendly way
 
 Visit to learn more: http://nikazawila.github.io/bem-buttons/
 
+---
 
 ### License:
 
